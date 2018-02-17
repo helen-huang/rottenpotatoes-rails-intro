@@ -45,6 +45,7 @@ table#movies th {
   background-color: wheat;
 }
 
+/*Highlight function*/
 table#movies th.hilite {
   background-color: yellow;
 }
